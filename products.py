@@ -1,0 +1,53 @@
+PRODUCTS = [
+    {
+        "product_id": "P12345",
+        "name": "Samsung Galaxy S24 5G",
+        "category": "Electronics > Smartphones",
+        "brand": "Samsung",
+        "price": 74999,
+        "mrp": 84999,
+        "discount_percent": 12,
+        "rating": 4.5,
+        "review_count": 2847,
+        "stock_quantity": 156,
+        "description": "Latest flagship with AI-powered camera...",
+        "keywords": ["smartphone", "5g", "android", "photography"],
+        "delivery_time_days": 2,
+        "emi_available": True,
+        "return_policy_days": 10
+    },
+    {
+        "product_id": "P22222",
+        "name": "Apple iPhone 15 Pro",
+        "category": "Electronics > Smartphones",
+        "brand": "Apple",
+        "price": 129900,
+        "mrp": 134900,
+        "discount_percent": 4,
+        "rating": 4.8,
+        "review_count": 1500,
+        "stock_quantity": 50,
+        "description": "Titanium design, A17 Pro chip, advanced camera system.",
+        "keywords": ["iphone", "apple", "smartphone", "ios"],
+        "delivery_time_days": 1,
+        "emi_available": True,
+        "return_policy_days": 7
+    },
+    {
+        "product_id": "P33333",
+        "name": "Sony WH-1000XM5",
+        "category": "Electronics > Headphones",
+        "brand": "Sony",
+        "price": 29990,
+        "mrp": 34990,
+        "discount_percent": 14,
+        "rating": 4.7,
+        "review_count": 5200,
+        "stock_quantity": 200,
+        "description": "Industry-leading noise cancellation, exceptional sound quality.",
+        "keywords": ["headphones", "sony", "noise cancelling", "audio"],
+        "delivery_time_days": 3,
+        "emi_available": True,
+        "return_policy_days": 10
+    }
+]
